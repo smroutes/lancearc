@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/lancearc/static/css/main.1caf8c3d.css",
+    "main.js": "/lancearc/static/js/main.430016ec.js",
+    "static/js/787.60f42024.chunk.js": "/lancearc/static/js/787.60f42024.chunk.js",
+    "static/media/fa-brands-400.svg": "/lancearc/static/media/fa-brands-400.04f5ae7184323f298e8f.svg",
+    "static/media/fa-solid-900.svg": "/lancearc/static/media/fa-solid-900.5ff6f359bce5e321b434.svg",
+    "static/media/fa-solid-900.eot": "/lancearc/static/media/fa-solid-900.64b50d00f611b0d0b282.eot",
+    "static/media/fa-solid-900.eot@": "/lancearc/static/media/fa-solid-900.64b50d00f611b0d0b282.eot@",
+    "static/media/fa-solid-900.ttf": "/lancearc/static/media/fa-solid-900.227a1a5663ff19fa46f5.ttf",
+    "static/media/fa-regular-400.svg": "/lancearc/static/media/fa-regular-400.556997c0703b8a6aad76.svg",
+    "static/media/fa-brands-400.eot": "/lancearc/static/media/fa-brands-400.2716ad9a7a76f3397937.eot",
+    "static/media/fa-brands-400.eot@": "/lancearc/static/media/fa-brands-400.2716ad9a7a76f3397937.eot@",
+    "static/media/fa-brands-400.ttf": "/lancearc/static/media/fa-brands-400.e397b5097222b2632d6d.ttf",
+    "static/media/fa-brands-400.woff": "/lancearc/static/media/fa-brands-400.469f3e19c4ac6064d135.woff",
+    "static/media/fa-solid-900.woff": "/lancearc/static/media/fa-solid-900.14634f37f85d42290ab7.woff",
+    "static/media/fa-brands-400.woff2": "/lancearc/static/media/fa-brands-400.78a8ea3dd2c63fbbd0b2.woff2",
+    "static/media/fa-solid-900.woff2": "/lancearc/static/media/fa-solid-900.309e0d995788c3ec2c1b.woff2",
+    "static/media/fa-regular-400.eot": "/lancearc/static/media/fa-regular-400.7b9748ae134804b3018a.eot",
+    "static/media/fa-regular-400.eot@": "/lancearc/static/media/fa-regular-400.7b9748ae134804b3018a.eot@",
+    "static/media/fa-regular-400.ttf": "/lancearc/static/media/fa-regular-400.87a818ee5bee8c31cd6c.ttf",
+    "static/media/img4.svg": "/lancearc/static/media/img4.6d64ac84e74f22c9e06f.svg",
+    "static/media/logo.svg": "/lancearc/static/media/logo.f3511dd48669a6a0439b0efc3fd799c4.svg",
+    "static/media/fa-regular-400.woff": "/lancearc/static/media/fa-regular-400.3e04786e3542cca2bee7.woff",
+    "static/media/fa-regular-400.woff2": "/lancearc/static/media/fa-regular-400.44c094eeee9688557784.woff2",
+    "index.html": "/lancearc/index.html",
+    "main.1caf8c3d.css.map": "/lancearc/static/css/main.1caf8c3d.css.map",
+    "main.430016ec.js.map": "/lancearc/static/js/main.430016ec.js.map",
+    "787.60f42024.chunk.js.map": "/lancearc/static/js/787.60f42024.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1caf8c3d.css",
+    "static/js/main.430016ec.js"
+  ]
+}
